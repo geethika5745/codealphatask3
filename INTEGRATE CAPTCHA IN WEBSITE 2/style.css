@@ -1,0 +1,41 @@
+
+
+.navbar1{
+   background:rgb(3, 10, 71) ; 
+   color: rgb(58, 179, 39);
+}
+
+.nav1{
+    color: rgb(161, 32, 32);
+}
+
+.logo{
+    color: rgb(200, 176, 22);
+    font-weight: 600;
+    font-size: 30px;
+}
+.logo span{
+    color: rgb(232, 0, 0);
+}
+
+.title1{
+    color: black;
+    padding: 20px;
+}
+.title1 span{
+color: rgb(177, 55, 55);
+}
+
+
+
+
+.card1{
+    text-align: center;
+    border: 1px solid rgb(156, 37, 37);
+    background: rgb(58, 64, 123) ;
+    color: rgb(76, 40, 137);
+}
+.card-footer{
+    background: rgb(0, 0, 0) ;
+    color: aliceblue;
+}
